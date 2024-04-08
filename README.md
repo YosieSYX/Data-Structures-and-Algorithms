@@ -1,3 +1,2 @@
-# CS2040C
-Data Structures and Algorithms
-This repository contains the C++ code implementation of foundamental data structures and algorithms. 
+# Data Structures and Algorithms
+This repository contains the C++ code templates of foundamental data structures and algorithms. 
